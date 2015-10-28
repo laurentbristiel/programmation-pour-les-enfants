@@ -179,7 +179,7 @@ Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et
 Cours payants (quelques dizaines d'euros), en principe à partir de 10 ans, qui mènent à la création de projets, typiquement des jeux. http://www.tynker.com/
 
 ### CS Unplugged en français
-Support de cours pour les professeurs qui souhaitent enseigner l'informatique à l'école. Le site et le livre papier sont en anglais (http://csunplugged.org/), mais il existe une traduction en français téléchargeable. http://csunplugged.org/sites/default/files/books/CS_Unplugged-fr.pdf
+Support de cours pour les professeurs qui souhaitent enseigner l'informatique à l'école. Le site et le livre papier sont en anglais (http://csunplugged.org/), mais il existe une traduction en français téléchargeable. https://interstices.info/upload/docs/application/pdf/2014-06/csunplugged2014-fr.pdf
 
 Initiation à des langages professionnels
 --------------
